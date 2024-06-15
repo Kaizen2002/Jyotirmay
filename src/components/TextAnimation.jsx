@@ -22,7 +22,7 @@ const TextAnimation = () => {
     <div className="flex items-center justify-center">
       <h1 className="text-[24px] font-bold text-[#EB5365]">
         {text}
-        <span className="animate-blink">|</span>
+        <span className="animate-blink">.</span>
       </h1>
     </div>
   );
